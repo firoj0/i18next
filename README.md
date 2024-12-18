@@ -36,7 +36,7 @@ The general i18next documentation is published on [www.i18next.com](https://www.
 
 The react specific documentation is published on [react.i18next.com](https://react.i18next.com) and PR changes can be supplied [here](https://github.com/i18next/react-i18next-gitbook).
 
----
+---(ccc)
 
 <h3 align="center">Gold Sponsors</h3>
 
